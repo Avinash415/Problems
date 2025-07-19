@@ -56,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
