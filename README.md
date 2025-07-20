@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avinash415/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Avinash415/Problems/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
