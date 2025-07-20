@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Avinash415/Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -69,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
