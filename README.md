@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Avinash415/Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avinash415/Problems/tree/master/0142-linked-list-cycle-ii) |
