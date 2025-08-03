@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
@@ -98,11 +99,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
