@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
+| [0492-construct-the-rectangle](https://github.com/Avinash415/Problems/tree/master/0492-construct-the-rectangle) |
 ## Linked List
 |  |
 | ------- |
