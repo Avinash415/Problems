@@ -89,12 +89,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/Avinash415/Problems/tree/master/0492-construct-the-rectangle) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Avinash415/Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Avinash415/Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Avinash415/Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Avinash415/Problems/tree/master/0206-reverse-linked-list) |
 ## Stack
