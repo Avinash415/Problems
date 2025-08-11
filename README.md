@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Avinash415/Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/Avinash415/Problems/tree/master/0492-construct-the-rectangle) |
 ## Linked List
