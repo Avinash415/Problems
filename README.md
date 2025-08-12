@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Avinash415/Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
