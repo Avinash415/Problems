@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Avinash415/Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Avinash415/Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avinash415/Problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Avinash415/Problems/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/Avinash415/Problems/tree/master/0492-construct-the-rectangle) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -177,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Avinash415/Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
