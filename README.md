@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avinash415/Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avinash415/Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Avinash415/Problems/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/Avinash415/Problems/tree/master/0492-construct-the-rectangle) |
 ## Linked List
@@ -197,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Avinash415/Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
