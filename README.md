@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Avinash415/Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Avinash415/Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Avinash415/Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
