@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Avinash415/Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Avinash415/Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Avinash415/Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Avinash415/Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Avinash415/Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avinash415/Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avinash415/Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -138,12 +141,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avinash415/Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avinash415/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
