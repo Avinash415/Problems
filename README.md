@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avinash415/Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Avinash415/Problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Avinash415/Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Avinash415/Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Avinash415/Problems/tree/master/0069-sqrtx) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Avinash415/Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Avinash415/Problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Avinash415/Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
