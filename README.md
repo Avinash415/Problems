@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Avinash415/Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Avinash415/Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Avinash415/Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash415/Problems/tree/master/0560-subarray-sum-equals-k) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Avinash415/Problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## String
 |  |
 | ------- |
