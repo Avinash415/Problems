@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Avinash415/Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Avinash415/Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Avinash415/Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0435-non-overlapping-intervals](https://github.com/Avinash415/Problems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Avinash415/Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Avinash415/Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash415/Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Avinash415/Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Avinash415/Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avinash415/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Avinash415/Problems/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avinash415/Problems/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Avinash415/Problems/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Avinash415/Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avinash415/Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Avinash415/Problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Avinash415/Problems/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
