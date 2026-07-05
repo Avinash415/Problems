@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Avinash415/Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Avinash415/Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Avinash415/Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Avinash415/Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Avinash415/Problems/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Avinash415/Problems/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Avinash415/Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avinash415/Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Avinash415/Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Avinash415/Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Avinash415/Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
